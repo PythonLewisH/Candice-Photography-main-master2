@@ -186,7 +186,7 @@ button:focus, button:active {
 .about-left {
   width: 45%;
   height: 500px;
-  background: url("../assets/photos/14.jpg") no-repeat center / cover;
+  background: url("../assets/photos/profile.jpeg") no-repeat center / cover;
   border-radius: 8px;
 }
 

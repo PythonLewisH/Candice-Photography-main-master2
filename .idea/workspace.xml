@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="heroku addresses added to JS file" />
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Gabibeach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Gabicolour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Griff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Lew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/TomB&amp;W.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Woody1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/bubbles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/heart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/kitchen1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/kitchen2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/pregnant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/profile.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photography.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master",
+    "last_opened_file_path": "/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/static/assets/photos",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -221,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658291965488</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <created>1663123378159</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663123378159</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +273,7 @@
     <MESSAGE value="some photo change to hosted, some shrunk" />
     <MESSAGE value="edit" />
     <MESSAGE value="heroku addresses added to JS file" />
-    <option name="LAST_COMMIT_MESSAGE" value="heroku addresses added to JS file" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
