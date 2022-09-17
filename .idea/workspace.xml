@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Gabibeach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Gabicolour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Griff.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Lew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/TomB&amp;W.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Woody1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/bubbles.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/heart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/kitchen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/kitchen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/pregnant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/profile.jpeg" afterDir="false" />
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="Candice Update Sept">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/enquiries.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/enquiries.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/static/assets/photos",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/static/assets/photos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/assets/photos" />
@@ -245,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663123378159</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Candice Update Sept">
+      <created>1663131203582</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663131203582</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +271,7 @@
     <MESSAGE value="edit" />
     <MESSAGE value="heroku addresses added to JS file" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Candice Update Sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Candice Update Sept" />
   </component>
 </project>

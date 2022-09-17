@@ -184,8 +184,8 @@ button:focus, button:active {
 }
 
 .about-left {
-  width: 45%;
-  height: 500px;
+  width: 480px;
+  height: 360px;
   background: url("../assets/photos/profile.jpeg") no-repeat center / cover;
   border-radius: 8px;
 }
@@ -465,13 +465,14 @@ color: red;
 }
 
 .about-left {
-  width: 70%;
+  width: 480px;
+  height: 360px;
 }
 
 .about-right {
   width: 60%;
     margin: 0;
-    margin-top: -100px;
+    margin-top: -10px;
     margin-bottom: 20px;
 
 }
