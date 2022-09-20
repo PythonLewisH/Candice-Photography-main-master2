@@ -296,6 +296,43 @@ border: #FFAC92 solid 2px;
   color: red;
 }
 
+.photo-selector {
+  height: auto;
+  width: auto;
+  border-radius: 50px;
+  border: 1px solid #FFAC92;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.photo-selector-container {
+  padding: 3% 7% 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 19%;
+}
+
+.photo-selector button {
+  padding: 2px 20px 2px;
+  border: none;
+  background: none;
+  font-family: 'Playfair Display', serif;
+  color: #807F81;
+}
+
+.photo-selector button:hover {
+  cursor: pointer;
+  background-color: #FFAC92;
+  color: white;
+}
+
+.photo-selector .active-btn {
+  background-color: #FFAC92;
+  color: white;
+}
+
 
 
 /* ENQUIRIES PAGE */
@@ -456,7 +493,6 @@ color: red;
 
 .main-section {
   width: 100%;
-  margin-top:35px;
   margin-left: 0;
 }
 
@@ -502,6 +538,10 @@ color: red;
 
   #lightbox .close-image {
     top:10%;
+  }
+
+  .photo-selector-container {
+    margin-left: 0;
   }
 
   /* footer */
