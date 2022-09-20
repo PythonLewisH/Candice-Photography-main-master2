@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="Candice Update Sept">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/enquiries.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/enquiries.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663131203582</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Candice Update Sept">
+      <created>1663381532787</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663381532787</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
