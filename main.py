@@ -32,7 +32,7 @@ def enquiries():
         enquiry_message = enquiry_form.message.data
 
         password = os.getenv("PASSWORD")
-        my_email = "chr_photos@outlook.com"
+        my_email = "enquiries@chrphotography.com"
         subject = "ENQUIRY RECEIVED FROM PHOTOGRAPHY WEBSITE"
         message = 'Subject: {}\n\n{}'.format(subject, f"Enquirer email: {enquiry_email} \n" + f"Enquirer name: "
                                                                                               f"{enquiry_name} \n" +
