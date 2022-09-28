@@ -160,6 +160,10 @@ button:focus, button:active {
 }
 
 
+.logo {
+height: 20px;
+}
+
 
 /* ABOUT ME */
 
@@ -494,6 +498,7 @@ color: red;
 .main-section {
   width: 100%;
   margin-left: 0;
+  margin-top: 10px;
 }
 
 .about-container {
