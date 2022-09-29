@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="Updated email to send contact form info to">
-      <change afterPath="$PROJECT_DIR$/static/assets/CHR Photography-main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Mabel1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/Mabelgate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/photos/dog.jpg" afterDir="false" />
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="Photo add">
+      <change afterPath="$PROJECT_DIR$/templates/pet-photoshoot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/enquiries.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/enquiries.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +46,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/static/assets",
+    "last_opened_file_path": "/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/templates",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static/assets" />
       <recent name="$PROJECT_DIR$/static/assets/photos" />
       <recent name="$PROJECT_DIR$/static/css" />
       <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/static/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/assets" />
@@ -293,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663802471510</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Photo add">
+      <created>1664337072861</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664337072861</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,6 +334,7 @@
     <MESSAGE value="Photography page navigation - lifestyle/pets/product" />
     <MESSAGE value="about section" />
     <MESSAGE value="Updated email to send contact form info to" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated email to send contact form info to" />
+    <MESSAGE value="Photo add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Photo add" />
   </component>
 </project>

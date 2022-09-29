@@ -4,13 +4,13 @@
 
   <ul class = "navbar-vertical">
     <div class="container-nav">
-<!--      <img class="logo" src="/static/assets/CHR Photography-main.png">-->
-      <h1>CHR Photography</h1>
+      <img class="logo" src="/static/assets/CHR Photography-main.png">
     </div>
 
     <li><a class="active" href="{{url_for('home')}}">About Me</a></li>
     <li><a href="{{url_for('photography')}}">Photography</a></li>
     <li><a href="{{url_for('enquiries')}}">Enquiries</a></li>
+      <li><a href="{{url_for('pet_photoshoot')}}">* Pet Photoshoot *</a></li>
     <div class="navbar-icon-div">
 
     <a href="mailto:candice.hudson@gmail.com?subject=Photography%20Enquiry" target="_blank"><i class="far fa-envelope navbar-icons"></i></a>
@@ -43,6 +43,9 @@
               <a class="nav-link link-h-nav" href="{{url_for('enquiries')}}">Enquiries</a>
             </li>
             <li class="mx-auto nav-item">
+              <a class="nav-link link-h-nav" href="{{url_for('pet_photoshoot')}}">*Pet Photoshoot*</a>
+            </li>
+            <li class="mx-auto nav-item">
               <a href="mailto:candice.hudson@gmail.com?subject=Photography%20Enquiry" target="_blank"><i class="far fa-envelope navbar-icons"></i></a>
 
               <a href="https://www.instagram.com/candyhudsonrolfphotography/" target="_blank"><i class="fa-brands fa-instagram navbar-icons"></i></a>
@@ -66,6 +69,7 @@
 
     <div class="about-right">
       <div class="content">
+              <img class="logo2" src="/static/assets/CHR Photography-main.png">
     <h1>Candice Hudson-Rolf</h1>
     <p>
       After years of enjoying amateur photography, in 2021 I sought a career change to become a full time professional photographer. After extensive private tuition at the Hampshire School of Photography I launched my business and haven’t looked back since.

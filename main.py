@@ -53,5 +53,10 @@ def enquiries():
         return render_template("enquiries.html", enquiry_form=enquiry_form)
 
 
+@app.route('/pet-photoshoot')
+def pet_photoshoot():
+    return render_template('pet-photoshoot.html')
+
+
 if __name__ == "__main__":
     app.run()
