@@ -58,5 +58,9 @@ def pet_photoshoot():
     return render_template('pet-photoshoot.html')
 
 
+@app.route('/maternity-photoshoot')
+def maternity_photoshoot():
+    return render_template('maternity-photoshoot.html')
+
 if __name__ == "__main__":
     app.run()
