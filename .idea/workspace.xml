@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="alt image titles and share content">
-      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="twitter share">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/maternity-photoshoot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/maternity-photoshoot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pet-photoshoot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pet-photoshoot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665363613918</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="twitter share">
+      <created>1665366894213</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1665366894213</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +363,7 @@
     <MESSAGE value="logo + pet photoshoot page" />
     <MESSAGE value="maternity photoshoot page" />
     <MESSAGE value="alt image titles and share content" />
-    <option name="LAST_COMMIT_MESSAGE" value="alt image titles and share content" />
+    <MESSAGE value="twitter share" />
+    <option name="LAST_COMMIT_MESSAGE" value="twitter share" />
   </component>
 </project>
