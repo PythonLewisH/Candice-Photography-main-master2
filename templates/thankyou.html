@@ -9,9 +9,10 @@
 
     <li><a href="{{url_for('home')}}">About Me</a></li>
     <li><a href="{{url_for('photography')}}">Photography</a></li>
-    <li><a class="active"  href="{{url_for('enquiries')}}">Make an enquiry</a></li>
+    <li><a href="{{url_for('testimonials')}}">Testimonials</a></li>
     <li><a href="{{url_for('pet_photoshoot')}}">* Pet Photoshoot *</a></li>
     <li><a href="{{url_for('maternity_photoshoot')}}">* Maternity Photoshoot *</a></li>
+    <li><a class="active" href="{{url_for('enquiries')}}">Make an enquiry</a></li>
     <div class="navbar-icon-div">
 
     <a href="mailto:candice.hudson@gmail.com?subject=Photography%20Enquiry" target="_blank"><i class="far fa-envelope navbar-icons"></i></a>
@@ -41,14 +42,16 @@
               <a class="nav-link link-h-nav" href="{{url_for('photography')}}">Photography</a>
             </li>
             <li class="mx-auto nav-item">
-              <a class="nav-link link-h-nav  active" href="{{url_for('enquiries')}}">Make an enquiry</a>
+              <a class="nav-link link-h-nav" href="{{url_for('testimonials')}}">Testimonials</a>
             </li>
-
-           <li class="mx-auto nav-item">
+            <li class="mx-auto nav-item">
               <a class="nav-link link-h-nav" href="{{url_for('pet_photoshoot')}}">*Pet Photoshoot*</a>
             </li>
-                        <li class="mx-auto nav-item">
+            <li class="mx-auto nav-item">
               <a class="nav-link link-h-nav" href="{{url_for('maternity_photoshoot')}}">*Maternity Photoshoot*</a>
+            </li>
+            <li class="mx-auto nav-item">
+              <a class="nav-link link-h-nav active" href="{{url_for('enquiries')}}">Make an enquiry</a>
             </li>
             <li class="mx-auto nav-item">
               <a href="mailto:candice.hudson@gmail.com?subject=Photography%20Enquiry" target="_blank"><i class="far fa-envelope navbar-icons"></i></a>

@@ -9,11 +9,10 @@
 
     <li><a href="{{url_for('home')}}">About Me</a></li>
     <li><a href="{{url_for('photography')}}">Photography</a></li>
-    <li><a href="{{url_for('testimonials')}}">Testimonials</a></li>
+    <li><a class="active" href="{{url_for('testimonials')}}">Testimonials</a></li>
     <li><a href="{{url_for('pet_photoshoot')}}">* Pet Photoshoot *</a></li>
-    <li><a class="active" href="{{url_for('maternity_photoshoot')}}">* Maternity Photoshoot *</a></li>
+    <li><a href="{{url_for('maternity_photoshoot')}}">* Maternity Photoshoot *</a></li>
     <li><a href="{{url_for('enquiries')}}">Make an enquiry</a></li>
-
     <div class="navbar-icon-div">
 
     <a href="mailto:candice.hudson@gmail.com?subject=Photography%20Enquiry" target="_blank"><i class="far fa-envelope navbar-icons"></i></a>
@@ -43,13 +42,13 @@
               <a class="nav-link link-h-nav" href="{{url_for('photography')}}">Photography</a>
             </li>
             <li class="mx-auto nav-item">
-              <a class="nav-link link-h-nav" href="{{url_for('testimonials')}}">Testimonials</a>
+              <a class="nav-link link-h-nav active" href="{{url_for('testimonials')}}">Testimonials</a>
             </li>
             <li class="mx-auto nav-item">
               <a class="nav-link link-h-nav" href="{{url_for('pet_photoshoot')}}">*Pet Photoshoot*</a>
             </li>
             <li class="mx-auto nav-item">
-              <a class="nav-link link-h-nav active" href="{{url_for('maternity_photoshoot')}}">*Maternity Photoshoot*</a>
+              <a class="nav-link link-h-nav" href="{{url_for('maternity_photoshoot')}}">*Maternity Photoshoot*</a>
             </li>
             <li class="mx-auto nav-item">
               <a class="nav-link link-h-nav" href="{{url_for('enquiries')}}">Make an enquiry</a>
@@ -68,47 +67,54 @@
 
   </div>
 
-  <section class="main-section">
+  <div class="testimonial-section">
 
-<div class="container-flex-column">
+    <div class="testimonials">
+                  <h1>Testimonials</h1>
+    </div>
 
-    <img class="top-img" src="static/assets/photos/Pregnant.jpg" alt="Maternity Photo">
+        <div class="testimonial-card">
 
-  <h1>Mini Maternity Photoshoot </h1>
-  <p>*November Only*</p>
+              <img class="testimonial-img" src="static/assets/Elle.jpeg">
 
-  <div class="photoshoot-info">
-  <p>
-    <br>
-    To celebrate the launch of my business I am offering a mini maternity photoshoot for just £40.
-   <br>
-    <br>
-    The shoot will:
-    <ul>
-  <li>Last approximately 45 minutes</li>
-  <li>Be shot in an outdoor location</li>
-  <li>Include digital downloads of the best images</li>
-  <li>Include option to purchase hard prints for a small fee</li>
-</ul>
-    <br>
-  For more information, or to book, please get in touch via email or the enquiry form below.
-  All bookings are made on a first come first, served basis, and payments will be required prior to the photoshoot.
-   <br>
-    <br>
-  </p>
+            <div class="testimonial-card-copy">
+
+         <p>"Working with Candice as a first-time mum and complete novice to posing for professional photos was so much
+           fun! She made me feel at ease and has such an eye for the natural surroundings."
+
+</p>
+      <p><strong>Elle</strong></p>
+
+        </div>
+
+
 
     </div>
 
-      <div class="container-flex">
-
-<a href="{{url_for('enquiries')}}"><button class="button-52">Make an enquiry</button></a>
-</div>
-
-</div>
-
-  </section>
+    <div class="testimonial-card">
 
 
+      <div id="blockA" class="testimonial-card-copy">
+
+         <p>"Candy did a photoshoot of a kitchen that we designed and installed, she was really professional and
+           understood the type of photos we wanted. The final photos were great and really looking forward to working
+           with her again. Would highly recommend. Thanks so much!"
+</p>
+      <p id="blockB"><strong>Angelika</strong></p>
+
+        </div>
+
+          <img id="blockC"  class="testimonial-img" src="static/assets/angelika.jpeg">
+
+    </div>
+
+
+
+
+
+  </div>
+
+  <section>
 
     <div class="footer-container">
 
