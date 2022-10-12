@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="Testimonials page">
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="photo name edits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/Angelika.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/angelika.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/maternity-photoshoot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/maternity-photoshoot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665536133337</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="photo name edits">
+      <created>1665605396765</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1665605396765</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,6 +399,7 @@
     <MESSAGE value="Buttons" />
     <MESSAGE value="Mini photoshoot page updates" />
     <MESSAGE value="Testimonials page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testimonials page" />
+    <MESSAGE value="photo name edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="photo name edits" />
   </component>
 </project>

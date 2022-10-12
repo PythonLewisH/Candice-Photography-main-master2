@@ -785,4 +785,10 @@ padding: 0;
     column-count: 1;
   }
 
+
+.container-flex-column {
+padding: 3% 10%;
+}
+
+
 }
