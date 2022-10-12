@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="padding on mobile">
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="divs on top images.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pet-photoshoot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pet-photoshoot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -365,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665605899352</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="divs on top images.">
+      <created>1665606867465</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1665606867465</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +389,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Procfile edit" />
     <MESSAGE value="edits" />
     <MESSAGE value="phots made small" />
     <MESSAGE value="display edits" />
@@ -408,6 +413,7 @@
     <MESSAGE value="Testimonials page" />
     <MESSAGE value="photo name edits" />
     <MESSAGE value="padding on mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="padding on mobile" />
+    <MESSAGE value="divs on top images." />
+    <option name="LAST_COMMIT_MESSAGE" value="divs on top images." />
   </component>
 </project>
