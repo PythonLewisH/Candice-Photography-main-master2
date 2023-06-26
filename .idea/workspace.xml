@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="divs on top images.">
+    <list default="true" id="ecfe4cec-6af1-4cc8-86e9-1c7ad685f760" name="Changes" comment="remove pet and mat shoots">
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Alice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/AliceB&amp;W.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/B&amp;Whorsejpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Fredcompressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/Sofiacom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/alicesofplay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/compressedjump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/famshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/fredcom-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/fredcompress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/freddad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/fredngab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/gabibucket2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/gabicompress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/horseblack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/horsecompress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/horsenosecompress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/jump2compress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/sofiacom2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/photos/watercompress.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pet-photoshoot.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pet-photoshoot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photography.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +60,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/templates&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lewishudson/Library/CloudStorage/OneDrive-Personal/PyCharm Projects/Candice-Photography-main-master/static/assets/photos&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/assets/photos" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static/assets" />
-      <recent name="$PROJECT_DIR$/static/assets/photos" />
       <recent name="$PROJECT_DIR$/static/css" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
@@ -371,7 +391,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665606867465</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="photo change">
+      <created>1665607086867</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665607086868</updated>
+    </task>
+    <task id="LOCAL-00042" summary="about edit">
+      <created>1687678276225</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1687678276226</updated>
+    </task>
+    <task id="LOCAL-00043" summary="remove pet and mat shoots">
+      <created>1687679859685</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1687679859685</updated>
+    </task>
+    <task id="LOCAL-00044" summary="remove pet and mat shoots">
+      <created>1687680374363</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1687680374363</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,9 +437,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="edits" />
-    <MESSAGE value="phots made small" />
-    <MESSAGE value="display edits" />
     <MESSAGE value="photo resize" />
     <MESSAGE value="photo change to hosted" />
     <MESSAGE value="some photo change to hosted, some shrunk" />
@@ -414,6 +459,9 @@
     <MESSAGE value="photo name edits" />
     <MESSAGE value="padding on mobile" />
     <MESSAGE value="divs on top images." />
-    <option name="LAST_COMMIT_MESSAGE" value="divs on top images." />
+    <MESSAGE value="photo change" />
+    <MESSAGE value="about edit" />
+    <MESSAGE value="remove pet and mat shoots" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove pet and mat shoots" />
   </component>
 </project>
